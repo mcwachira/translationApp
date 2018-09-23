@@ -1,0 +1,15 @@
+{
+  "name": "translation_app",
+  "version": "1.0.0",
+  "description": "An App for Translation and Text to Speech",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Mcwachira",
+  "homepage": "https://mcwachira.github.io/translationApp",
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
